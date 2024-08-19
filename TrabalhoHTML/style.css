@@ -1,0 +1,100 @@
+#navbarespaco {
+    width: 100%;
+    height: 80px;
+    background-color: #1E52B4;
+    color: white;
+    display: flex;
+}
+
+#banner {
+    width: 100%;
+    height: 381px;
+    background-color: #1E52B4;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#titulo {
+    padding-left: 72px;
+}
+
+#subtitulo {
+    width: 414px;
+    height: 81px;
+    padding-left: 72px;
+    padding-bottom: 160px;
+}
+
+#navbardecria {
+    width: 300px;
+    height: 35px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 840px;
+    top: 22px;
+}
+
+#retangulomeio {
+    width: 942px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 284px;
+    padding-right: 284px;
+    display: flex;
+}
+
+#itensmeio {
+    display: flex;
+    justify-content: space-around;
+    width: 942px;
+    height: 80px;
+    align-items: center;
+    border: 1px;
+    background-color: white;
+    border-color: white;
+    border-style: solid;
+    border-radius: 8px;
+    padding-bottom: 80px;
+}
+
+#sectionmain1 {
+    display: flex;
+    justify-content: space-between;
+    background-color: #FCFCFC;
+}
+
+#sectionmain2 {
+    display: flex;
+    justify-content: space-between;
+    background-color: #FCFCFC;
+}
+
+#imagembanner {
+    display: flex;
+    position: absolute;
+    left: 900px;
+}
+
+#botaocadastrar {
+    background-color: #1E52B4;
+    color: white;
+    border-radius: 8px;
+    border-color: white;
+    border-style: solid;
+    width: 151px;
+    height: 35px;
+}
+
+#procurarhotelbotao {
+    background-color: green;
+    color: white;
+    border-radius: 8px;
+    border-color: green;
+    border-style: solid;
+    width: 160px;
+    height: 45px;
+}
