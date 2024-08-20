@@ -4,6 +4,9 @@
     background-color: #1E52B4;
     color: white;
     display: flex;
+    border-style: solid;
+    border-color: #1E52B4;
+    border: 6px;
 }
 
 #banner {
@@ -97,4 +100,8 @@
     border-style: solid;
     width: 160px;
     height: 45px;
+}
+
+#image1234 {
+    border-radius: 8px;
 }
